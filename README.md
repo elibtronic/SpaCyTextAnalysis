@@ -1,20 +1,15 @@
 ![Tool Logo][imglogo]
 
 
-# Title
-Description of contents
+# spaCy Basics
+A selection of spaCy features presented with examples using the Winnie Beam diary dataset. 
 
-### First header
-Content
+## Prerequisites
+This notebook assumes familiarity with the Python programming language and the basic concepts of text analysis. 
 
-### Second Header
+## Notebook
 
-Content
-
-### Etc.
- 
- 
- 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/BrockDSL/SpaCyTextAnalysis/blob/2fa84d0ceb67ea260a91e2d0fcfb779a6577d536/spaCy_basics.ipynb) - spaCy Basics
 
   
 **This tutorial is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
